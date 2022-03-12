@@ -1,0 +1,10 @@
+tr{
+    color: blue;
+}
+tr>td{
+    color: aliceblue;
+}
+.status
+{
+    margin-bottom: 30%;
+}
